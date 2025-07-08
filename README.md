@@ -1,4 +1,4 @@
-# Lesson 6: Context Management - Large File Refactoring Challenge
+# Context Management - Large File Refactoring Challenge
 
 ##  Challenge Overview
 You have a monolithic Python file (`monolithic_data_processor.py`) that contains over 500 lines of code doing EVERYTHING in one place. Your job is to use Cursor's context management features to break this monster into proper modular components.
