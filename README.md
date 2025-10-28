@@ -54,8 +54,6 @@ What does this file do?
     - Ensure all imports work correctly.
     - Example structure
         
-        This is a reference — it's OK if your solution looks different.
-        
         ```
         refactored_project/
         ├── database/
